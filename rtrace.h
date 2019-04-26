@@ -13,7 +13,7 @@
 
 #define EPSILON 0.001f
 #define PI 3.141592f
-#define TAU PI * 2
+#define TAU PI * 2.0f
 
 #define GRAD_STEP 0.02f
 #define MARCH_STEPS 128
