@@ -87,8 +87,6 @@ bool trace(vec3 o, vec3 d, vec3 & n) {
 
 vec3 r = { 0.0f, 0.0f, 0.0f };
 
-bool start() { return true; }
-
 bool update() {
   if (rtt::ctx->event->value == EV_KEY)
     if (rtt::ctx->event->code == KEY_Q)
