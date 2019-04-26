@@ -2,7 +2,7 @@
 Fast and simple realtime ANSI terminal renderer with ray tracing example
 
 ## Files
-```rterm.h``` - a simple ANSI render buffer<br>
+```rterm.h``` - a simple ANSI render engine<br>
 ```rtrace.h``` -  a basic ray tracing algorithm rendering a signed distance field
 
 ## Usage
